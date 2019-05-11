@@ -1,0 +1,28 @@
+#######################################
+# Syntax Coloring Map for NewSoftSerial
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+max6675	KEYWORD1
+max31855  KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+readCelsius	KEYWORD2
+readFahrenheit	KEYWORD2
+readInternal	KEYWORD2
+getError	KEYWORD2
+setErrorMask	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+SCV	LITERAL1
+SCG	LITERAL1
+OC	LITERAL1
+OTC	LITERAL1
