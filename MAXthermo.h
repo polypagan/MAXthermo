@@ -35,8 +35,8 @@
 const uint8_t SCV = 4,  // TC shorted to Vdd
               SCG = 2,  // TC shorted to Vss
                         // TC open circuit (missing)
-              OC = 1;   // as per datasheet
-              OTC = 1,  // more mnemonic pseudonym
+              OC = 1,   // as per datasheet
+              OTC = 1;  // more mnemonic pseudonym
 
 class MAXthermo {
  public:
